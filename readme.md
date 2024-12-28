@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-- Hello this is mc2
+- Hello this is mc1
